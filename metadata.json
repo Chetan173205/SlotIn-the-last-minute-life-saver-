@@ -1,0 +1,6 @@
+{
+  "name": "SlotIn",
+  "description": "An AI-powered productivity companion that proactively plans, prioritizes, and drafts assets for tasks before deadlines are missed.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
